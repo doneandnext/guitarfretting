@@ -4,8 +4,6 @@
 
 Effective and updated: October 22, 2026
 
-[中文](privacy-zh.md) · [Terms of Use](terms-en.md)
-
 ## Scope and operator
 
 This policy explains how Day Important (“we”) handles information in Guitar Fretting (吉他按弦). Contact us at [doneandnext@outlook.com](mailto:doneandnext@outlook.com).

@@ -4,8 +4,6 @@
 
 Effective and updated: October 22, 2026
 
-[中文](terms-zh.md) · [Privacy Policy](privacy-en.md)
-
 ## Service and agreement
 
 Day Important provides Guitar Fretting (吉他按弦) for touchscreen guitar fingering and rhythm practice. Please read these terms before use. The iOS app is also licensed under [Apple’s Standard End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). This page supplements service and membership details and does not replace that license or your statutory rights.

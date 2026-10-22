@@ -4,8 +4,6 @@
 
 生效及更新日期：2026 年 10 月 22 日
 
-[English](privacy-en.md) · [使用条款](terms-zh.md)
-
 ## 适用范围与运营者
 
 本政策说明 Day Important（以下简称“我们”）如何在“吉他按弦 / Guitar Fretting”应用中处理信息。隐私联系邮箱：[doneandnext@outlook.com](mailto:doneandnext@outlook.com)。

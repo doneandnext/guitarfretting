@@ -4,8 +4,6 @@
 
 生效及更新日期：2026 年 10 月 22 日
 
-[English](terms-en.md) · [隐私政策](privacy-zh.md)
-
 ## 服务与协议
 
 “吉他按弦 / Guitar Fretting”由 Day Important 提供，用于触屏吉他指法与节奏练习。使用应用前请阅读本条款。iOS 应用的许可使用同时适用 [Apple 标准最终用户许可协议（EULA）](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)；本页面补充说明应用服务与会员安排，不替代该许可协议或您的法定权利。
