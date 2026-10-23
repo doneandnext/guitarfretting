@@ -1,16 +1,16 @@
 ---
 layout: support
-title: Guitar Fretting 技术支持
+title: 吉他按弦 技术支持
 lang: zh-CN
 ---
 
-# Guitar Fretting 技术支持
+# 吉他按弦 技术支持
 
-Guitar Fretting · Day Important
+吉他按弦 · Day Important
 
 ## 联系我们
 
-如果你在使用 Guitar Fretting 时遇到问题，或有功能建议，请发送邮件至：
+如果你在使用 吉他按弦 时遇到问题，或有功能建议，请发送邮件至：
 
 **[doneandnext@outlook.com](mailto:doneandnext@outlook.com)**
 
