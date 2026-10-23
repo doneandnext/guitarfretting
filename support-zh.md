@@ -1,6 +1,6 @@
 ---
-layout: support
-title: 吉他按弦 技术支持
+layout: document
+title: "吉他按弦 技术支持"
 lang: zh-CN
 ---
 

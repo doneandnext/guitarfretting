@@ -1,6 +1,12 @@
+---
+layout: document
+title: "隐私政策 · 吉他按弦"
+lang: zh-CN
+---
+
 # 隐私政策
 
-吉他按弦 / Guitar Fretting · Day Important
+吉他按弦 · Day Important
 
 生效及更新日期：2026 年 10 月 22 日
 

@@ -1,6 +1,12 @@
+---
+layout: document
+title: "Privacy Policy · Guitar Fretting"
+lang: en
+---
+
 # Privacy Policy
 
-吉他按弦 / Guitar Fretting · Day Important
+Guitar Fretting · Day Important
 
 Effective and updated: October 22, 2026
 

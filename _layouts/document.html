@@ -4,15 +4,22 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | escape }}</title>
-  <meta name="description" content="Guitar Fretting support · Day Important">
+  <meta name="description" content="{{ page.description | default: page.title | escape }} · Day Important">
   <style>
     * { box-sizing: border-box; }
     body { margin: 0; background: #f6f4ef; color: #242923; font: 16px/1.85 system-ui, -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; }
     main { max-width: 800px; margin: 0 auto; padding: 48px 28px 64px; overflow-wrap: anywhere; }
     h1 { font-size: clamp(28px, 5vw, 40px); line-height: 1.3; margin: 0 0 20px; }
     h2 { font-size: 22px; line-height: 1.45; margin: 36px 0 12px; }
-    p, ul { margin: 0 0 18px; }
-    ul { padding-left: 24px; }
+    p, ul, ol { margin: 0 0 18px; }
+    ul, ol { padding-left: 24px; }
+    li + li { margin-top: 6px; }
+    strong { font-weight: 650; }
+    table { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: 15px; }
+    th, td { padding: 14px 12px; border: 1px solid #d9ddd3; text-align: left; vertical-align: top; }
+    th { background: #eaece4; font-weight: 650; }
+    td { background: #fffdf8; }
+    @media print { body { background: #fff; } main { max-width: none; padding: 0; } h2 { break-after: avoid; } }
     a { color: #385c46; text-underline-offset: 4px; }
     a:hover { color: #916721; }
     a:focus-visible { outline: 2px solid #385c46; outline-offset: 4px; }

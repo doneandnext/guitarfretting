@@ -1,6 +1,6 @@
 ---
-layout: support
-title: Guitar Fretting Support
+layout: document
+title: "Guitar Fretting Support"
 lang: en
 ---
 

@@ -1,6 +1,12 @@
+---
+layout: document
+title: "Terms of Use · Guitar Fretting"
+lang: en
+---
+
 # Terms of Use
 
-吉他按弦 / Guitar Fretting · Day Important
+Guitar Fretting · Day Important
 
 Effective and updated: October 22, 2026
 

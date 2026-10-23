@@ -1,3 +1,9 @@
+---
+layout: document
+title: "吉他按弦 / Guitar Fretting"
+lang: zh-CN
+---
+
 # 吉他按弦 / Guitar Fretting
 
 技术支持、隐私政策与使用条款 · Support, Privacy Policy & Terms of Use
