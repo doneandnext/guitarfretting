@@ -1,8 +1,12 @@
+---
+layout: support
+title: Guitar Fretting Support
+lang: en
+---
+
 # Guitar Fretting Support
 
-Guitar Fretting / 吉他按弦 · Day Important
-
-[简体中文](support-zh.md) · [Home](README.md)
+Guitar Fretting · Day Important
 
 ## Contact us
 
