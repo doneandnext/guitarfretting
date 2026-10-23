@@ -1,5 +1,6 @@
 ---
 layout: document
+permalink: /
 title: "吉他按弦 / Guitar Fretting"
 lang: zh-CN
 ---
